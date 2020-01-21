@@ -1,0 +1,44 @@
+std_total: 4종 성매개감염병 신고수 / 주민등록인구(10~19세) [임질, 클라미디아감염증, 성기단순포진, 첨규콘딜롬]
+std_exp: 4종 성매개감염병 신고수 / 주민등록인구(10~19세) * 성관계경험률 [당해 추정 성관계 10대 대비 4종 성매개 감염병 신고수]
+hiv: HIV 바이러스 감염수(10~19세)
+smoke: 중고생 흡연율
+drink: 중고생 음주율
+stress: 중고생 스트레스 인지율
+depress: 중고생 우울감 경험률
+sex_frequency: 10대 성관계횟수
+contraception: 유배우 부인의 피임실천률(전국, 전연령)
+
+abortion: 낙태율
+obesity: 비만율
+teen_crime: 소년 1천명당 소년범죄발생건수
+tuberculosis: 결핵 신고 신환자수(10~19세)
+pre_puberty: 성조숙증
+single: 한부모가정
+private_edu: 사교육참여율
+exercise3_week: 중고생 주 3회 이상 격렬한 신체운동을 한 비율
+
+basic_livelihood_security_recipient: 국민기초생활보장수급자수
+culture_fac: 인구 10만명당 문화기반시설수
+welfare_fac: 인구 10만명당 사회복지시설수
+sports_fac: 인구 10만명당 체육시설수
+park: 인구 1천명당 도시공원조성면적
+doctor: 인구 1천명당 의료기관 종사의사수
+
+internet: 인터넷 이용률(최근 한달 이내)
+spam_email: 스팸 이메일 통수
+spam_text: 스팸 문자 통수
+
+rainy: 연합계 강수일수
+tropical: 연합계 열대야일수
+heat: 연합계 폭염일수
+temp_avg: 연평균 기온
+temp_low: 연평균 최저기온
+temp_high: 연평균 최고기온
+
+per_capita_income: 1인당 국민총소득
+consumer_price_index: 소비자물가지수
+gini: 지니 계수 - 가계동향조사(농가경제조사포함)
+cosmetic: 국내 화장품산업 시장규모
+
+
+
