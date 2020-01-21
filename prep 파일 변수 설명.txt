@@ -37,7 +37,7 @@ temp_high: 연평균 최고기온
 
 per_capita_income: 1인당 국민총소득
 consumer_price_index: 소비자물가지수
-gini: 지니 계수
+gini: 지니 계수 - 가계동향조사(농가경제조사포함)
 cosmetic: 국내 화장품산업 시장규모
 
 
